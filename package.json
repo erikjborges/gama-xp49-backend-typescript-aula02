@@ -1,0 +1,16 @@
+{
+  "name": "aula02-pratica",
+  "version": "1.0.0",
+  "description": "Projeto da segunda aula de TS do XP49",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gama",
+    "typescript",
+    "xp49"
+  ],
+  "author": "Erik Borges",
+  "license": "ISC"
+}
